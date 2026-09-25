@@ -1,2 +1,2 @@
 # opn-testnet-hello
-Robinhood New Coin Risk Scanner 
+Simple smart contract project for OPN Chain Testnet 
